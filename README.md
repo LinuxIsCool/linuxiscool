@@ -5,7 +5,7 @@
 <p align="center">
   <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
   •
-  <b><a href="https://github.io/shawnwanderson/portfolio">My Portfolio</a></b>
+  <b><a href="https://shawnwanderson.github.io/portfolio/">My Portfolio</a></b>
   •
   <b><a href="https://twitter.com/ygg_anderson"> Follow Me on Twitter</a></b>
   •
