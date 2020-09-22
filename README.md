@@ -7,9 +7,11 @@
   •
   <b><a href="https://github.io/shawnwanderson/portfolio">My Portfolio</a></b>
   •
+  <b><a href="https://twitter.com/ygg_anderson"> Follow Me on Twitter</a></b>
+  •
   <b><a href="mailto:shawnltf@pm.me"> Email Me</a></b>
   •
-  <b><a href="0x5a2e9B1Fc10f2BFfD8782b8089A16847F3F6ce0B">Send ETH Bro</a></b>
+  <b><a href="https://app.zerion.io/linuxiscool.eth/overview">Send ETH Bro</a></b>
 </p>
 
 <p align="center">
