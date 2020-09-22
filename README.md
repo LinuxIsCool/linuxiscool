@@ -21,6 +21,6 @@
 
 <p align="center">
   <a href="https://longtailfinancial.com" >
-    <img src="ltf-gray-transparent-180x180.png"/>
+    <img src="ltf-gray.png"/>
   </a>
 </p>
