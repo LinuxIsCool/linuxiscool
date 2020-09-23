@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <a href="https://longtailfinancial.com" >
     <img src="ltf-gray.png"/>
   </a> 
