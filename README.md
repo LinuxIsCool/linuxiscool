@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://longtailfinancial.com" >
+    <img src="ltf-gray.png"/>
+  </a> 
   <img height="150" src="https://gitlab.com/miguelbogota/miguelbogota/-/raw/master/cat.gif" alt="gif with funny random cat say thank you." />
 </div>
 
