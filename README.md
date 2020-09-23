@@ -23,9 +23,3 @@
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
-
-<p align="center">
-  <a href="https://longtailfinancial.com" >
-    <img src="ltf-gray.png"/>
-  </a>
-</p>
