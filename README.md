@@ -1,5 +1,5 @@
-<div style="background-image: url('https://raw.githubusercontent.com/LinuxIsCool/linuxiscool/master/popos-2020-09-21-190458%20-transparent.jpeg');">
-  
+<div style="background-image: url('popos-2020-09-21-190458%20-transparent.jpeg');">
+  <img src="popos-2020-09-21-190458%20-transparent.jpeg"/>
   <div align="center">
   <a href="https://longtailfinancial.com" >
     <img src="ltf-gray.png"/>
