@@ -1,5 +1,4 @@
 <div>
-<img src="popos-2020-09-21-190458%20-transparent.jpeg"/>
 <div align="center">
 <a href="https://longtailfinancial.com" >
   <img src="ltf-gray.png"/>
@@ -25,57 +24,5 @@
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
-
-<style>
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-</style>
-
-<h2>Image Text</h2>
-<p>How to place text over an image:</p>
-
-<div class="container" position="relative">
-  <img src="popos-2020-09-21-190458%20-transparent.jpeg" alt="Snow" style="width:100%;">
-  <div style="position:absolute;font-size:46px;">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered">Centered</div>
-</div>
-
 </div>
 
