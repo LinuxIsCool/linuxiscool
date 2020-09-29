@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <b><a href="https://github.com/LinuxIsCool/configuration/blob/master/README.md">Neovimuxinator Fisherman</a></b>
+  <b><a href="https://github.com/LinuxIsCool/configuration">Neovimuxinator Fisherman</a></b>
   <br/>
   <b><a href="https://shawnwanderson.github.io/portfolio/">My Portfolio</a></b>
   •
