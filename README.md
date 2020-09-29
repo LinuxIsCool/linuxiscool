@@ -17,7 +17,7 @@
   •
   <b><a href="https://calendly.com/shawnltf"> Book a Meeting</a></b>
   •
-  <b><a href="https://app.zerion.io/linuxiscool.eth/overview">linuxiscool.eth</a></b>
+  <b><a href="https://app.zerion.io/linuxiscool.eth/overview">Send ETH Bro</a></b>
 </p>
 
 <p align="center">
