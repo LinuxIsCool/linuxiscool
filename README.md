@@ -25,6 +25,13 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  </p>
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/openai-%23412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tpot-%232F2625.svg?&style=for-the-badge&logo=coffeescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
+  
 </p>
 </div>
 
