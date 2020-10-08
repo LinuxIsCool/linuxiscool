@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <b><a href="https://github.com/LinuxIsCool/configuration">Pioneering Human-in-the-loop Technologies at Longtail Financial</a></b>
+  <b><a href="https://github.com/LinuxIsCool/configuration">Pioneering Human-in-the-loop Technologies</a></b>
   <br/>
   <b><a href="https://shawnwanderson.github.io/portfolio/">My Portfolio</a></b>
   •
