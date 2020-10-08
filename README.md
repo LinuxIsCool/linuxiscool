@@ -11,7 +11,7 @@
   <br/>
   <b><a href="https://shawnwanderson.github.io/portfolio/">My Portfolio</a></b>
   •
-  <b><a href="https://twitter.com/coolaslinux"> Follow Me on Twitter</a></b>
+  <b><a href="https://twitter.com/yggltf"> Follow Me on Twitter</a></b>
   •
   <b><a href="mailto:shawnltf@pm.me"> Email Me</a></b>
   •
