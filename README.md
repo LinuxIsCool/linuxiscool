@@ -1,9 +1,6 @@
 <div>
 <div align="center">
-<a href="https://longtailfinancial.com" >
-  <img src="ltf-gray.png"/>
-</a> 
-<img height="150" src="https://gitlab.com/miguelbogota/miguelbogota/-/raw/master/cat.gif" alt="gif with funny random cat say thank you." />
+<img height="150" src="goku_spiritbomb.gif" alt="" />
 </div>
 
 <p align="center">
@@ -27,5 +24,10 @@
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   
 </p>
+<div align="center">
+<a href="https://longtailfinancial.com" >
+  <img src="ltf-gray.png"/>
+</a> 
+</div>
 </div>
 
