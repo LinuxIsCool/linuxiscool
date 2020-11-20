@@ -11,11 +11,9 @@
   <br/>
   <b><a href="https://shawnwanderson.github.io/portfolio/">My Portfolio</a></b>
   •
-  <b><a href="https://twitter.com/yggltf"> Follow Me on Twitter</a></b>
+  <b><a href="https://twitter.com/ygg_anderson"> Follow Me on Twitter</a></b>
   •
   <b><a href="mailto:shawnltf@pm.me"> Email Me</a></b>
-  •
-  <b><a href="https://calendly.com/shawnltf"> Book a Meeting</a></b>
   •
   <b><a href="https://app.zerion.io/linuxiscool.eth/overview">Send ETH Bro</a></b>
 </p>
