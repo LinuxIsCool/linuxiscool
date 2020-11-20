@@ -1,6 +1,6 @@
 <div>
 <div align="center">
-<img height="250" src="goku_spiritbomb.gif" alt="" />
+<img height="300" src="goku_spiritbomb.gif" alt="" />
 </div>
 
 <p align="center">
