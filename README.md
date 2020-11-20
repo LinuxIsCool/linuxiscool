@@ -1,6 +1,6 @@
 <div>
 <div align="center">
-<img height="150" src="goku_spiritbomb.gif" alt="" />
+<img height="250" src="goku_spiritbomb.gif" alt="" />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
   •
   <b><a href="mailto:shawnltf@pm.me"> Email Me</a></b>
   •
-  <b><a href="https://app.zerion.io/linuxiscool.eth/overview">Send ETH Bro</a></b>
+  <b><a href="https://app.zerion.io/linuxiscool.eth/overview">Send ETH</a></b>
 </p>
 
 <p align="center">
